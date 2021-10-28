@@ -1,0 +1,3 @@
+- Learned about `removeAll()`
+- Handling errors
+- Throwing functions
